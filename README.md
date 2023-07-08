@@ -7,6 +7,8 @@ ImagiForge is an all-in-one image editing tool written in Python. It provides va
 * Change aspect ratio: Resize the image by specifying a new width and height.
 * Change brightness: Adjust the brightness of the image by providing a value between -1.0 and 1.0.
 * Change contrast: Modify the contrast of the image by specifying a value between 0.0 and 2.0.
+* Crop image: Select a rectangular region of interest within the image.
+* Rotate image: Rotate the image by a specified angle in degrees.
 
 ## Usage
 
